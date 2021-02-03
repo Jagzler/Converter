@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="input_amount_here">Input amount here:</string>
+    <string name="distance">Distance</string>
+    <string name="weights">Weights</string>
+    <string name="speeds">Speeds</string>
+    <string name="volumes">Volumes</string>
+    <string name="temperatures">Temperatures</string>
+
+    <string-array name="weights">
+        <item>Ounce to gram</item>
+        <item>Pound to gram</item>
+        <item>Stone to kilogram</item>
+    </string-array>
+
+    <string-array name="distance">
+        <item>Inch to centimeter</item>
+        <item>Foot to centimeter</item>
+        <item>Yard to centimeter</item>
+        <item>Mile to kilometer</item>
+    </string-array>
+
+    <string-array name="speeds">
+        <item>Miles/hour to kilometer/hour</item>
+        <item>Meters/second to kilometer/hour</item>
+        <item>Knots to kilometer/hour</item>
+    </string-array>
+
+    <string-array name="volumes">
+        <item>Cups(US) to ml</item>
+        <item>Cups(Metric) to ml</item>
+        <item>Ounces(US) to ml</item>
+        <item>Ounces(UK) to ml</item>
+        <item>US gallon</item>
+        <item>UK gallon</item>
+        <item>US pint</item>
+        <item>UK pint</item>
+    </string-array>
+
+    <string-array name="temperatures">
+        <item>Fahrenheit to Celsius</item>
+        <item>Kelvin to Celsius</item>
+    </string-array>
+
+
+</resources>
